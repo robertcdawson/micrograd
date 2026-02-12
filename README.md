@@ -1,7 +1,5 @@
 #micrograd-js
 
-![awww](puppy.jpg)
-
 A tiny JavaScript autograd engine for scalar values with reverse-mode autodiff and a minimal neural-network stack (`Module`, `Neuron`, `Layer`, `MLP`) built on top.
 
 Thanks to Andrej Karpathy for the original code and project: <https://github.com/karpathy/micrograd>.
