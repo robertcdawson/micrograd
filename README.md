@@ -1,4 +1,4 @@
-#micrograd-js
+# micrograd-js
 
 A tiny JavaScript autograd engine for scalar values with reverse-mode autodiff and a minimal neural-network stack (`Module`, `Neuron`, `Layer`, `MLP`) built on top.
 
